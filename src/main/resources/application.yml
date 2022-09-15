@@ -1,0 +1,5 @@
+spring:
+  artemis:
+    mode: native
+    password: test
+    user: test
